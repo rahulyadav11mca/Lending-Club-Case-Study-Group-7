@@ -46,6 +46,9 @@ Created by [@githubusername] - feel free to contact me!
 
 
 <!-- Optional -->
+
+Note:
+Please download loan.zip and extract it
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
 
